@@ -1,0 +1,1 @@
+Game is located at: Lawn Simulator\Build\Lawn Simulator.exe
